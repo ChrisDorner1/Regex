@@ -34,7 +34,7 @@ These constructs describe precisely the subexpression of regex and capture the s
 
 ### Bracket Expressions
 
-A bracket expression will matcha set of individual characters. These are contained in square brackets []
+A bracket expression will match a set of individual characters. These are contained in square brackets []
 
 ### Character Classes
 
