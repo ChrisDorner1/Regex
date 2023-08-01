@@ -1,6 +1,6 @@
-# Title (replace with your title)
-
-Introductory paragraph (replace this with your text)
+# A Brief Summary of Regex
+This is a brief summary to using Regex and a slight breakdown of the components. I have created this gist to help remember how regex works and what all can be done with it.
+While I personally don't use a lot of Regex, it can be very useful in making code smaller and neater. After much deliberation I believe, for me at least, this is the simplest I can break down Regex without writting several pages of information.
 
 ## Summary
 
