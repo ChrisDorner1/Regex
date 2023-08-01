@@ -10,7 +10,7 @@
 
   ## Installation
 
-  Go to the GitHub page click the "<code>" button and select the "download zip" option
+  Go to the GitHub page click the "code" button and select the "download zip" option
 
   ## Usage
 
